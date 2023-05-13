@@ -16,3 +16,6 @@ Slide -> Shift
 ![Player Slide](https://github.com/ArnavKucheriya/CityRunner/blob/main/Images/Screenshot%20(58).png)
 
 ![Player Jump](https://github.com/ArnavKucheriya/CityRunner/blob/main/Images/Screenshot%20(59).png)
+
+# Updates -
+May Change the Background in the Future, or make it optional to change.
