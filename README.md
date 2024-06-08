@@ -1,6 +1,8 @@
 # CityRunner
 City Runner is a free to play interactive game made in Unity, built for WebGL and deployed using GitHub pages.
 
+Play here - https://arnavkucheriya.github.io/CityRunner/
+
 ## Controls -
 ```
 To start -> Left Click on screen to start game.
